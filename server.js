@@ -49,37 +49,36 @@ app.get("/scrape", function(req, res) {
 
       // Get article title
       result.title = $(this)
-        .children("a")
+        .find(".hgpm-image-hed")
         .text();
+      //console.log("Headline: " + result.title);
 
       //Get article 'fulltext'
       result.fulltext = $(this)
-        .children("span [class='hgpm-back-listview-text']")
+        .find(".hgpm-back-listview-text")
         .attr("data-fulltext");
+      //console.log("Full: " + result.fulltext);
 
       // Get article link
       result.link = $(this)
-        .children("a")
+        .find(".hgpm-link")
         .attr("href");
+      //console.log("Link: " + result.link);
 
       // Get article image for 9 visible articles
       result.image = $(this)
-        .children("a")
-        .children("span")
-        .children("img")
+        .find(".hgpm-image")
         .attr("src");
 
       // Or...get image for the 18 hidden articles
       if (!result.image) {
         result.image = $(this)
-          .children("a")
-          .children("span")
-          .children("img")
+          .find(".hgpm-image")
           .attr("data-src");
       }
-      //console.log(result);
+      //console.log("Image: " + result.image);
 
-      // Create a new Article using the 'result' object
+      //Create a new Article using the 'result' object
       db.Article.create(result)
         .then(function(dbArticle) {
           // View the added result in the console
@@ -91,7 +90,7 @@ app.get("/scrape", function(req, res) {
         });
     });
 
-    // Send a message to the client
+    //     // Send a message to the client
     res.send("Scrape Complete");
   });
 });
