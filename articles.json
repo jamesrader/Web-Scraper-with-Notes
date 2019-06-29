@@ -1,0 +1,540 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ea9"),
+    "title" : "Today in History for June 24th",
+    "fulltext" : "Highlights of this day in history:  Start of the Berlin blockade during the early Cold War; Boxing champ Jack Dempsey born; Comedian and actor Jackie Gleason of 'The Honeymooners' fame dies.  (June 24)",
+    "link" : "/videos/news/nation/2019/06/24/today-history-june-24th/1544489001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/c64a92e6-3d52-4e69-8f13-19258d408ee0_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eaa"),
+    "title" : "Daredevils cross Times Square on 25-story high wire",
+    "fulltext" : "Lijana Wallenda makes a brave return after a high wire accident broke nearly all the bones in her face two years ago.",
+    "link" : "/story/news/nation/2019/06/23/flying-wallendas-cross-times-square-high-wire-channel-start-time/1541831001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/24/USAT/e3c2460d-ad6e-4c07-a44f-7c125229c4eb-GTY_1157877389.JPG?crop=4932,4911,x1691,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eab"),
+    "title" : "$35M just allocated to one D-Day ship. What about the others?",
+    "fulltext" : "The Navy allowed groups around the country to take World War II ships, but scant attention was given to the multimillion-dollar maintenance costs.",
+    "link" : "/story/news/nation/2019/05/24/memorial-day-ww-2-world-war-2-veterans-ships-us-navy-museums-repair/3698081002/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/06/USAT/7001d4a8-f433-4b95-bc26-b03fdceabf46-AP_A20G1WAR13_12P1.5_X_33_LINES.JPG?crop=885,885,x0,y87&width=210&height=230&fit=bounds",
+    "__v" : 0,
+    "note" : ObjectId("5d147107fbf51a64a409f5f6")
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eac"),
+    "title" : "30,000 cops in 44 states banned for misconduct. Now we know why",
+    "fulltext" : "USA TODAY is leading a national effort to obtain and publish disciplinary and misconduct records for thousands of police officers.",
+    "link" : "/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/04/25/USAT/4c84fb5d-38d7-465e-957a-aaf40f4ef5e1-BadCopCollage2_1.jpg?crop=1962,1962,x393,y1&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ead"),
+    "title" : "Indianapolis Catholic school fires gay teacher",
+    "fulltext" : "Cathedral High School is one of 68 schools Catholic recognized by the Archdiocese of Indianapolis and serves about 1,100 students in grades 9-12.",
+    "link" : "/story/news/education/2019/06/23/indianapolis-catholic-school-fires-gay-teacher-archdiocese/1543989001/",
+    "image" : "https://www.gannett-cdn.com/presto/2018/09/15/PIND/3bae260b-7ecb-4a48-b508-7ceeb602bc54-archbishop1.JPG?crop=2480,2447,x717,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eae"),
+    "title" : "AP Top Stories June 23",
+    "fulltext" : "The latest for Sunday, June 23rd: Trump: \"not looking for war\" with Iran but would be \"obliteration\" if there is; 11 people dead in Hawaii plane crash; Motorcycle crash victims remembered; Firefighters rescue ducklings with YouTube video (Jun 23)",
+    "link" : "/videos/news/nation/2019/06/24/ap-top-stories-june-23/1544051001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/dc45e7f1-3f63-4940-a0f8-66c1920b5023_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eaf"),
+    "title" : "AP Top Stories June 23",
+    "fulltext" : "The latest for Sunday, June 23rd: Trump: \"not looking for war\" with Iran but would be \"obliteration\" if there is; 11 people dead in Hawaii plane crash; Motorcycle crash victims remembered; Firefighters rescue ducklings with YouTube video (Jun 23)",
+    "link" : "/videos/news/nation/2019/06/24/ap-top-stories-june-23/1544049001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/eeceee00-d906-4bdd-ae2a-d819414a3b3e_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb0"),
+    "title" : "AP Top Stories June 23",
+    "fulltext" : "The latest for Sunday, June 23rd: Trump: \"not looking for war\" with Iran but would be \"obliteration\" if there is; 11 people dead in Hawaii plane crash; Motorcycle crash victims remembered; Firefighters rescue ducklings with YouTube video (Jun 23)",
+    "link" : "/videos/news/nation/2019/06/24/ap-top-stories-june-23/1544048001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/dd7e87ea-d26a-4808-8fba-936eb6c53bac_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb1"),
+    "title" : "Knitting website Ravelry bans Trump support",
+    "fulltext" : "An online knitting and crafting community has banned posts and projects in support of President Donald Trump and his administration.",
+    "link" : "/story/news/nation/2019/06/23/ravelry-bans-president-donald-trump-support-white-supremacy/1543323001/",
+    "image" : "https://www.gannett-cdn.com/-mm-/e90e3660905920158c9e1c403f81983672348b97/c=82-0-561-479/local/-/media/2017/06/29/USATODAY/usatsports/GettyImages-100121151.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb2"),
+    "title" : "She had a stroke next to a hospital – but her ambulance was turned away",
+    "fulltext" : "Tiffany Tate collapsed next to a hospital closed to ambulances. This little-known \"ambulance diversion\" policy has been shown to endanger patients.",
+    "link" : "/story/news/nation/2019/01/17/ambulance-diversion-deadly-consequences/2601373002/",
+    "image" : "https://www.gannett-cdn.com/presto/2018/11/06/PMJS/82bc84c5-48d3-4caf-aa97-c87439e3aa08-MJS_STROKE_DIEDRICH.jpg?crop=2176,2176,x343,y109&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb3"),
+    "title" : "Police: 1-year-old dies after 5 hours in hot car",
+    "fulltext" : "A 1-year-old boy died Saturday after his parent left him in a hot car while at work for about five hours, police in Galveston, Texas said.",
+    "link" : "/story/news/nation/2019/06/23/hot-car-death-texas-boy-13-th-nationally/1542225001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/05/07/USAT/ba609980-1a73-499e-82f3-09c6159459ed-Screen_Shot_2019-05-07_at_10.48.51_AM.png?crop=1888,1888,x922,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb4"),
+    "title" : "The 2020 census will use aerial technology",
+    "fulltext" : "Getting responses from people who live in remote places has always been a challenge for the Census Bureau.",
+    "link" : "/story/news/nation/2019/06/23/2020-us-census-use-aerial-technology-locate-households/1542306001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/23/USAT/4356fef4-a91f-44e3-9083-eac6ddd34023-AP_Census_2020-Technology.JPG?crop=2419,2419,x612,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb6"),
+    "title" : "Skydiving plane in Hawaii crash had previous scary incident",
+    "fulltext" : "The skydiving plane that crashed in Hawaii on Friday, killing all 11 aboard, had been involved in a terrifying incident before that.",
+    "link" : "/story/news/nation/2019/06/23/skydiving-plane-hawaii-crash-had-earlier-incident-california/1542238001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/22/USAT/5451b806-1476-4d9a-81eb-d942e6fa9d25-AP_Hawaii_Fatal_Airplane_Crash.JPG?crop=2969,2969,x379,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb5"),
+    "title" : "Barbershop shooting suspect put gun to child's head, police say",
+    "fulltext" : "A 28-year-old man faces charges of murder, aggravated assault with a deadly weapon and kidnapping from incident at Tallahassee, Florida, barbershop.",
+    "link" : "/story/news/nation/2019/06/21/tallahassee-florida-barbershop-fatal-shooting/1526853001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/20/PTAL/233ad087-6670-4031-b903-fa5f0c407a63-IMG_1583.JPG?crop=4020,3999,x899,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb7"),
+    "title" : "'Devastating': Motorcycle community mourns 7 killed in NH",
+    "fulltext" : "The tight-knit motorcycle community was reeling Sunday after a horrific biker collision left seven people dead and three injured in New Hampshire.",
+    "link" : "/story/news/nation/2019/06/23/motorcycle-crash-community-mourns-7-killed/1540672001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/23/USAT/6b594f4a-90d7-42e6-b377-f9912827e1ef-AP_Motorcycles_Crash.JPG?crop=1199,1199,x0,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb8"),
+    "title" : "Divorced man must split lottery winnings with ex-wife",
+    "fulltext" : "He bought the ticket two years after he and his wife separated, but she still gets to take home half, court officials say.",
+    "link" : "/story/news/nation/2019/06/23/michigan-man-must-split-mega-millions-winnings-ex-wife/1542015001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/23/USAT/4b303912-ee7c-4687-95e6-110f5fb98916-AP_California_Lottery.JPG?crop=2059,2059,x561,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eb9"),
+    "title" : "Graphic video shows shootout that killed officer",
+    "fulltext" : "The Sacramento Police Department released bodycam footage of a shootout that resulted in the killing of 26-year-old rookie officer Tara O'Sullivan.",
+    "link" : "/videos/news/nation/2019/06/23/graphic-video-captures-shootout-killed-sacramento-police-officer/1541963001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/23/USAT/3a8c67d0-dce3-4706-9871-2e12165350a2-a95adcab-fb67-49d7-b184-3ca5e5cdbc50_thumbnail.png?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7eba"),
+    "title" : "'Officer down! Officer down!' Chilling bodycam footage from deadly shootout",
+    "fulltext" : "A hearing is Monday for the man accused of killing a rookie Sacramento police officer in a fierce shootout captured on the bodycam of a fellow officer.",
+    "link" : "/story/news/nation/2019/06/23/sacramento-police-chilling-footage-released-officers-death/1541050001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/20/USAT/2a26d640-a2f9-4496-aa26-41d55209bb3c-1ebfed5b-e65e-49e2-9c7c-4a5f1fc34a07_thumbnail.png?crop=480,480,x70,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ebb"),
+    "title" : "One of the last Tuskegee Airmen dead at 99",
+    "fulltext" : "“He was our guiding light,” said Air Museum Director Fred Bell. “It will be a long time before there is another man like him.”",
+    "link" : "/story/news/nation/2019/06/23/tuskegee-airman-lt-col-robert-friend-dies/1540882001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/22/PPAS/9fe91f6c-17c5-47ca-b783-891aa15415a8-bob_friend.jpg?crop=190,193,x0,y5&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ebc"),
+    "title" : "Centuries-old tree threatened by Arizona fire",
+    "fulltext" : "As the Woodbury Fire spread in Arizona, people became concerned about the fate of the Medusa Mother Tree and inquired about fire crews saving it.",
+    "link" : "/story/news/nation/2019/06/22/woodbury-fire-crews-fight-save-ancient-mother-tree-arizona/1539614001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/22/PPHX/e5c6de69-9f7d-4dcb-85cf-a037dcf367b7-Reavis_Ranch_3_18_13_091_-_Copy.jpg?crop=768,768,x118,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ebd"),
+    "title" : "Today in History for June 23rd",
+    "fulltext" : "Highlights of this day in history:  A key moment in the Watergate scandal; Adolf Hitler visits Paris after France falls to Nazi Germany; The typewriter gets a patent; Polio vaccine pioneer Dr. Jonas Salk and TV producer Aaron Spelling die.  (June 23)",
+    "link" : "/videos/news/nation/2019/06/22/today-history-june-23rd/1538759001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/86041baa-a6ed-470f-bfbb-13390f621b36_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ebe"),
+    "title" : "AP Top Stories June 22 P",
+    "fulltext" : "Here's the latest for Saturday, June 22nd: Military action against Iran still ‘on the table’; Trump postpones nationwide immigration enforcement sweep; 11 aboard skydiving plane killed in Hawaii crash; Miniature nail art of babies in the womb.",
+    "link" : "/videos/news/nation/2019/06/22/ap-top-stories-june-22-p/1538662001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/d9844e51-329b-42e5-917f-297f2b42de9c_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ebf"),
+    "title" : "Police: Mailman killed while on postal route",
+    "fulltext" : "A mailman died Saturday after he was shot multiple times while on his mail route, the Shreveport Police Department confirmed.",
+    "link" : "/story/news/nation/2019/06/22/postal-worker-killed-while-delivering-mail-shreveport-police-say/1538545001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/22/PSHR/b806e3fd-7a12-493d-a22a-80d8175f6f3a-61451395-A96C-42B3-9829-03D670C42CF7.jpeg?crop=3064,3023,x442,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ec0"),
+    "title" : "Trump tries to fend off new sexual misconduct accusation",
+    "fulltext" : "Trump fights back against an allegation by writer E. Jean Carroll that he forced himself on her in a store dressing room in the 1990s.",
+    "link" : "/story/news/politics/2019/06/22/president-trump-sexual-misconduct-allegation-e-jean-carroll/1534990001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/21/USAT/4364e29b-5c0d-4210-b2ec-5f559287eca7-VPC_US_VS_IRAN_DESK_THUMB.jpg?crop=730,719,x267,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ec1"),
+    "title" : "Mom outraged by racist photo on front door",
+    "fulltext" : "Lisa Sproat, an oncologist and mother of four in Arizona, is speaking out after racist photo was taped to her front door Thursday.",
+    "link" : "/story/news/nation/2019/06/22/scottsdale-woman-lisa-sporat-speaks-out-after-racist-photo-found-door/1536750001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/22/USAT/fbbc6928-ba61-4650-a78a-af52d41d799e-IMG_2647.PNG?crop=749,749,x0,y137&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ec2"),
+    "title" : "Trump denies womans 90's sexual assault allegation",
+    "fulltext" : "US President Donald Trump says a New York-based advice columnist who claims he sexually assaulted her in a Manhattan department store dressing room in the mid-1990s made a \"totally false accusation\" against him and he denied knowing the woman. (June 22)",
+    "link" : "/videos/news/nation/2019/06/22/trump-denies-womans-90-s-sexual-assault-allegation/1536692001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/93a5187b-6e7f-4daf-97f9-370ff1b5322e_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5d1058d254d2c35db81b7ec3"),
+    "title" : "Military action against Iran still ‘on the table’",
+    "fulltext" : "President Donald Trump said Saturday he's still considering military action against Iran after it downed an unmanned US military aircraft, saying the use of force is \"always on the table until we get this solved.\" (June 22)",
+    "link" : "/videos/news/nation/2019/06/22/military-action-against-iran-still-on-table/1536518001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/0c9bcb1c-4a34-4842-b64c-25e1c534ae0a_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a2"),
+    "title" : "Texas mom accused of running over son playing 'chicken'",
+    "fulltext" : "A woman has been charged with criminally negligent homicide after police say she ran over her 3-year-old son during a game of 'chicken' in Houston.",
+    "link" : "/story/news/nation/2019/06/23/texas-mom-accused-running-over-her-son-during-game-chicken/1540644001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/04/24/USAT/d05109b7-1a0e-458c-a872-960a4f198c64-GettyImages-900894072.jpg?crop=3446,3446,x12,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a3"),
+    "title" : "$35M just allocated to one D-Day ship. What about the others?",
+    "fulltext" : "The Navy allowed groups around the country to take World War II ships, but scant attention was given to the multimillion-dollar maintenance costs.",
+    "link" : "/story/news/nation/2019/05/24/memorial-day-ww-2-world-war-2-veterans-ships-us-navy-museums-repair/3698081002/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/06/USAT/7001d4a8-f433-4b95-bc26-b03fdceabf46-AP_A20G1WAR13_12P1.5_X_33_LINES.JPG?crop=885,885,x0,y87&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a4"),
+    "title" : "Experts explain why the 'too ugly to rape' argument doesn't hold up",
+    "fulltext" : "After E. Jean Carroll accused Trump of rape, he said she was \"not his type,\" a tactic experts say is used to discredit sexual assault victims.",
+    "link" : "/story/news/nation/2019/06/25/trump-calls-accuser-e-jean-carroll-not-my-type-its-rape-myth-too-ugly/1554488001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/25/USAT/a4072329-b25c-4877-beb2-0568ae6eea0a-AP_Trump_Unreliable_Partner.JPG?crop=1655,1621,x144,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a5"),
+    "title" : "30,000 cops in 44 states banned for misconduct. Now we know why",
+    "fulltext" : "USA TODAY is leading a national effort to obtain and publish disciplinary and misconduct records for thousands of police officers.",
+    "link" : "/in-depth/news/investigations/2019/04/24/usa-today-revealing-misconduct-records-police-cops/3223984002/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/04/25/USAT/4c84fb5d-38d7-465e-957a-aaf40f4ef5e1-BadCopCollage2_1.jpg?crop=1962,1962,x393,y1&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a6"),
+    "title" : "Analysis: immigration, health care dominate debate",
+    "fulltext" : "On a debate stage in Miami where a surprising amount of Spanish was spoken, Democrats blistered the White House for the deaths of a migrant father and his daughter whose drowned bodies were seen in searing photographs. (June 27)",
+    "link" : "/videos/news/nation/2019/06/27/analysis-immigration-health-care-dominate-debate/1581223001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/3263511d-15ec-4d9f-8117-163a4982de13_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a7"),
+    "title" : "Don't 'park scooters in the river' in Oregon",
+    "fulltext" : "More than 50 e-scooters and bikes were pulled out of the Willamette River in Portland by the Multnomah County Sheriff's Office.",
+    "link" : "/story/news/nation/2019/06/26/oregon-sheriffs-office-pulls-57-e-scooters-bikes-portland-river/1580452001/",
+    "image" : "https://www.gannett-cdn.com/presto/2018/11/17/USAT/9714ea4b-d0de-4532-91ef-d2c4f844db46-scooters1.JPG?crop=2078,2078,x81,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a8"),
+    "title" : "Roll the credits: NRA scraps live TV programming",
+    "fulltext" : "The NRA's live TV programming is cancelled, an executive announced Wednesday, the same day a top lobbyist resigned amid turmoil in the gun group.",
+    "link" : "/story/news/nation/2019/06/26/nra-shuts-down-nratv-programming-chris-cox-lobbyist/1568612001/",
+    "image" : "https://www.gannett-cdn.com/-mm-/397a435ceea5ecd8e79b126129fa4b056160f300/c=1145-0-2730-1585/local/-/media/2018/02/23/USATODAY/USATODAY/636550054270192248-Screen-Shot-2018-02-23-at-2.56.35-PM.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544a9"),
+    "title" : "Video shows people climbing fence at border",
+    "fulltext" : "Video shot at the U.S.-Mexico border in El Paso, Texas, shows migrants climbing a fence as Border Patrol agents look on. It's unclear whether the migrants were climbing toward the U.S. or Mexico side of the border. (June 27)",
+    "link" : "/videos/news/nation/2019/06/27/video-shows-people-climbing-fence-border/1580727001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/11537641-a99f-40e1-8f49-546ed8113e31_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544aa"),
+    "title" : "Ex-USC gynecologist faces 53 years in prison",
+    "fulltext" : "Dr. George Tyndall, 72, who worked at USC for nearly three decades, could go to prison for 53 years.",
+    "link" : "/story/news/nation/2019/06/26/george-tyndall-ex-usc-gynecologist-charged-16-sexual-assaults/1580104001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/a80e093d-9ab3-4d90-abf2-bd793d38dc0e-AP_USC_Gynecologist_Arrest.JPG?crop=2151,2111,x423,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544ab"),
+    "title" : "She had a stroke next to a hospital – but her ambulance was turned away",
+    "fulltext" : "Tiffany Tate collapsed next to a hospital closed to ambulances. This little-known \"ambulance diversion\" policy has been shown to endanger patients.",
+    "link" : "/story/news/nation/2019/01/17/ambulance-diversion-deadly-consequences/2601373002/",
+    "image" : "https://www.gannett-cdn.com/presto/2018/11/06/PMJS/82bc84c5-48d3-4caf-aa97-c87439e3aa08-MJS_STROKE_DIEDRICH.jpg?crop=2176,2176,x343,y109&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544ac"),
+    "title" : "Ohio massacre: Charges against matriarch dropped",
+    "fulltext" : "Prosecutors said Fredericka Wagner had lied during testimony about where she bought two bulletproof vests. She had testified she bought them on Amazon.",
+    "link" : "/story/news/nation/2019/06/26/pike-county-charges-against-fredericka-wagner-dismissed/1580353001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/26/PCIN/1ab191b4-1002-425f-b8f9-f0f236058688-IMG_4997.jpg?crop=3064,3023,x684,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544ad"),
+    "title" : "Mom suffocates her toddler son because of her affair",
+    "fulltext" : "The New Jersey woman's attorney argued that she had nothing to do with the death.",
+    "link" : "/story/news/nation/2019/06/26/new-jersey-mother-suffocates-her-17-month-old-son-due-her-affair/1579771001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/e9793037-bf40-4bb9-aed5-2d65f85fa326-GettyImages-962264348.jpg?crop=1518,1501,x218,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544ae"),
+    "title" : "Facebook CEO: It's feds' job to stop interference",
+    "fulltext" : "Breaking up Facebook, Mark Zuckerberg said Wednesday, wouldn't solve issues of misinformation, privacy or election interference.",
+    "link" : "/story/tech/2019/06/26/facebook-mark-zuckerberg-feds-stop-interference/1577512001/",
+    "image" : "https://www.gannett-cdn.com/-mm-/4ca7aadd4507d6be255da0c893a587bec27bb4b9/c=72-0-840-768/local/-/media/2019/05/02/USATODAY/usatsports/mark-zuckerberg-e1522875841571.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544af"),
+    "title" : "16 patients allege sex assault by ex-USC med staffer",
+    "fulltext" : "Dr. George Tyndall, 72, worked at the school for nearly three decades.",
+    "link" : "/story/news/nation/2019/06/26/ex-usc-gynecologist-george-tyndall-charged-sexual-assault/1579476001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/eb295a5b-bdf1-4830-9a3e-6f7ed164ddc4-AP_USC_Gynecologist_Arrest.JPG?crop=1509,1490,x162,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b0"),
+    "title" : "AP Debrief: Officials give tour of border facility",
+    "fulltext" : "Journalists were given a tour of a Border Patrol facility in Texas after an Associated Press report highlighted the squalid conditions, inadequte food and sanitation issues inside. (June 26)",
+    "link" : "/videos/news/nation/2019/06/27/ap-debrief-officials-give-tour-border-facility/1579706001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/67e4e8a8-6e45-437c-a7b3-291594622aaa_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b1"),
+    "title" : "University gynecologist charged in sexual assaults",
+    "fulltext" : "A University of Southern California gynecologist has been charged with the sexual assault of 16 patients at the campus student health center. Dr. George Tyndall was arrested by Los Angeles police outside his home Tuesday. (June 26)",
+    "link" : "/videos/news/nation/2019/06/27/university-gynecologist-charged-sexual-assaults/1579495001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/c8d81f3c-e9fe-4039-b362-3a0caf416bd9_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b2"),
+    "title" : "Vultures eating animals alive on Kentucky farms",
+    "fulltext" : "Vultures are multiplying nationally, and their greater numbers have made them more desperate for food – even if it's alive",
+    "link" : "/story/news/nation/2019/06/26/black-turkey-vultures-eating-cows-into-kentucky-farmers-profits/1579224001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/24/PLOU/b781a46c-964e-469d-b049-88459b32897e-blackvulture.JPG?crop=2910,2910,x2428,y322&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b3"),
+    "title" : "Today in History for June 27th",
+    "fulltext" : "Highlights of this day in history:  U.S. air and naval forces ordered into the Korean War; John Dean testifies about the Nixon White House's 'enemies list'; Stonewall riots spark the modern gay rights movement; Actor Jack Lemmon dies.  (June 27)",
+    "link" : "/videos/news/nation/2019/06/27/today-history-june-27th/1579338001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/5513fae3-5e6f-460e-8663-9c19a4a611a9_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b4"),
+    "title" : "Dog in viral hospital bed photo finds new home",
+    "fulltext" : "Moose, a 3-year-old lab mix, was recently photographed waiting at his former owner's hospital bed, spurring an adoption rush for the dog.",
+    "link" : "/story/news/nation/2019/06/26/dog-viral-photo-hospital-bed-finds-new-home/1578618001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/24/PNJM/d80a6c0c-a230-4f7e-ab3e-b0b7ea96f757-eleventh_hour.jpg?crop=720,720,x37,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b5"),
+    "title" : "FAA finds new Boeing 737 Max flaw",
+    "fulltext" : "The jet has been grounded since two deadly crashes but the FAA says Boeing's software fixes aren't enough to get it flying again.",
+    "link" : "/story/news/nation/2019/06/26/boeing-737-max-new-potential-risk-could-delay-jets-return-skies/1577597001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/26/USAT/4d9a4549-ed4f-498f-aa05-2dc120d78b57-unitedmax9.jpg?crop=2010,1999,x959,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b6"),
+    "title" : "Life expectancy varies greatly by neighborhood",
+    "fulltext" : "A recent report shows that in some American cities, the lifespan can be nearly 30 years longer in one neighborhood than in another.",
+    "link" : "/story/money/2019/06/26/study-life-expectancy-varies-by-neighborhood-and-the-gap-is-huge/39623241/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/27/USAT/ebf7328a-8fe1-494d-a5b2-2b1ff8806fdb-GettyImages-875403094.jpg?crop=1499,1499,x400,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b7"),
+    "title" : "Tenn.'s cellphone law targets distracted drivers",
+    "fulltext" : "No more watching, recording or broadcasting videos while driving. No more holding your phone as you use turn-by-turn directions.",
+    "link" : "/story/news/nation/2019/06/26/hands-free-law-distracted-driving-targeted-new-tennessee-law/1578111001/",
+    "image" : "https://www.gannett-cdn.com/-mm-/01cec6af4595d6c6967139db4ac1fc4d695b7261/c=354-0-1768-1414/local/-/media/2019/05/03/USATODAY/usatsports/MotleyFool-TMOT-97cb6dc4-texting-and-driving.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b8"),
+    "title" : "Talk about a big bird: 1,000 pounds and 10-feet-tall",
+    "fulltext" : "At 1,000 pounds and over 10 feet tall, this bird was one the largest that ever lived in Earth's history, according to new research.",
+    "link" : "/story/news/nation/2019/06/27/giant-birds-once-roamed-around-europe/1570307001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/26/USAT/dd8adbcd-7ed6-465c-a6d4-f14ed659b36f-204234.jpg?crop=2666,2650,x587,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544b9"),
+    "title" : "There is joy in the world. This photo is proof",
+    "fulltext" : "A photo of an emotional 8-year-old boy hugging his little sister at a Pre-K graduation has gone viral.",
+    "link" : "/story/news/nation/2019/06/26/photo-brother-hugging-sister-pre-k-graduation-pure-joy/1576671001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/26/USAT/3c7e3ce2-2c32-4c2f-aca9-9268eeec2186-C97603CB-E2B2-4CC5-9AE7-EC44B043EB6A.jpeg?crop=3023,3023,x0,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544ba"),
+    "title" : "Ford asks dealership to end shotgun giveaway",
+    "fulltext" : "The automaker asked the Alabama dealership to end the gun promotion after three people were shot to death Tuesday at a California Ford dealership.",
+    "link" : "/story/money/cars/2019/06/26/ford-dealer-shotgun-giveaway-alabama/1577453001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/26/PDTF/46f4fc8a-9f75-403f-958c-7af33d2bf0e6-64518093_10157309914991100_1391756737492549632_o.jpg?crop=654,639,x358,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544bb"),
+    "title" : "House oversight panel backs subpoena for Conway",
+    "fulltext" : "The House Oversight Committee on Wednesday approved a subpoena to force White House counselor Kellyanne Conway to appear before the panel as it looks into allegations that she repeatedly violated the Hatch Act. (June 26)",
+    "link" : "/videos/news/nation/2019/06/26/house-oversight-panel-backs-subpoena-conway/1577438001/",
+    "image" : "https://www.gannett-cdn.com/authoring/video-thumbnails/92bf57a7-98be-4ca4-a2f2-ad02eaccb24e_poster.jpg?width=210&height=230&fit=crop",
+    "__v" : 0
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("5d146a43463c773518d544bc"),
+    "title" : "His daughter is being detained: 'This is terrifying.'",
+    "fulltext" : "The 7-year-old girl was moved to four facilities in a matter of four days, all while having no line of communication with her parents.",
+    "link" : "/story/news/nation/2019/06/26/migrant-crisis-immigrant-parents-frantic-over-7-year-olds-safety/1576719001/",
+    "image" : "https://www.gannett-cdn.com/presto/2019/06/24/USAT/13d3e58d-1b5e-4583-9084-053b9458d6a9-AP_Immigration_Children_Detained.JPG?crop=1667,1667,x454,y0&width=210&height=230&fit=bounds",
+    "__v" : 0
+}
