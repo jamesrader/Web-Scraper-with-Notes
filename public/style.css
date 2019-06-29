@@ -1,0 +1,54 @@
+body {
+  background-image: url("/images/newsBG.jpg");
+}
+#wrapper {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+.jumbotron {
+  opacity: 0.5;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("");
+  background-size: cover;
+}
+
+.jumbo_text {
+  color: black;
+  font-family: "Passion One", cursive;
+}
+
+h1 {
+  font-size: 50px;
+}
+.heading {
+  color: black;
+  text-shadow: 2px 2px 4px #ffffff;
+}
+#articles {
+  display: inline-block;
+  overflow: auto;
+  width: 60%;
+  height: 700px;
+  color: orange;
+  text-shadow: 2px 2px 4px #000000;
+}
+#notes {
+  float: right;
+  width: 30%;
+}
+textarea,
+input {
+  display: block;
+  width: 100%;
+  background-color: #fcf5c7;
+}
+input {
+  height: 36px;
+  font-size: 24px;
+}
+textarea {
+  height: 200px;
+  font-size: 18px;
+}

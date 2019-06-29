@@ -27,6 +27,12 @@ app.use(express.json());
 // Make public a static folder
 app.use(express.static("public"));
 
+// Set Handlebars.
+var exphbs = require("express-handlebars");
+
+app.engine("handlebars", exphbs({ defaultLayout: "main" }));
+app.set("view engine", "handlebars");
+
 // Connect to the Mongo DB
 //mongoose.connect("mongodb://localhost/unit18Populater", { useNewUrlParser: true });
 
@@ -102,7 +108,18 @@ app.get("/articles", function(req, res) {
     .then(function(dbArticle) {
       // If we were able to successfully find Articles, send them back to the client
       res.json(dbArticle);
+      var hbsObject = {
+        dbArticle: data
+      };
+      console.log(hbsObject);
+      res.render("index", hbsObject);
     })
+
+    // dbArticle.forEach(article => {
+    //   console.log(article.title);
+    // });
+    //console.log(dbArticle.title);
+    //})
     .catch(function(err) {
       // If an error occurred, send it to the client
       res.json(err);
